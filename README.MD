@@ -7,5 +7,7 @@
 
     git commit -m "what u changed"
 
-    
+    git push origin master //     
+
+    git pull
 ```
